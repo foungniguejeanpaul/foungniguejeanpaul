@@ -51,7 +51,7 @@
 - 💬 **WhatsApp** : [+225 07 88 86 85 33](https://wa.me/2250788868533)  
 - ✉️ **Email pro** : [foungnigue.soro@inphb.ci](mailto:foungnigue.soro@inphb.ci)  
 - ✉️ **Email perso** : [jeanpaulsoro3@gmail.com](mailto:jeanpaulsoro3@gmail.com)  
-- 🌐 **Portfolio** : [à ajouter ici](#)
+- 🌐 **Portfolio** : [https://portfolio-jean-paul.vercel.app/]
 
 ---
 
